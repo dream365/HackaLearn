@@ -1,3 +1,4 @@
+![HackaLearn_Challenges_01](https://user-images.githubusercontent.com/16471779/128630966-77804c87-24c4-4efb-9fce-8aea04f58fdf.PNG)
 # 팀명: Whiskey #
 
 ## 챌린지 ##
