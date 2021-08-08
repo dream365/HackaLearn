@@ -14,7 +14,7 @@
 
 애저 정적 웹 앱 클라우드 스킬 챌린지 완료후 스크린샷을 찍어 저장한 후 이곳에 링크를 남겨 주세요.
 
-| GitHub ID | 스크린샷 링크 |
+| GitHub ID | 스크린샷 링크 |ss
 | --------- | ------------- |
 | [@JunYoung7](https://github.com/JunYoung7) | *링크를 남겨주세요* |
 | [@Lee-WonJun](https://github.com/Lee-WonJun) | *링크를 남겨주세요* |
